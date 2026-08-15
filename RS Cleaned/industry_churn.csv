@@ -1,0 +1,6 @@
+industry,total_accounts,churned_accounts,churn_rate
+Cybersecurity,100,16,0.16
+DevTools,113,35,0.30973451327433627
+EdTech,79,13,0.16455696202531644
+FinTech,112,25,0.22321428571428573
+HealthTech,96,21,0.21875
