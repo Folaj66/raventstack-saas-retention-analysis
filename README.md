@@ -25,7 +25,8 @@ That was the problem I wanted to investigate with RavenStack.
 
 **Known limitation:** the NRR table calculates gross revenue retention using aggregate monthly MRR, not upgrade/downgrade-adjusted net revenue per account. Treat NRR figures in this dataset as directional, not board-ready, until recalculated at the account level.
 
-<img width="1958" height="1480" alt="RavenStack SaaS Retention Dashboard" src="https://github.com/user-attachments/assets/935e13e1-09d3-4aa7-be49-9bf7930840b8" />
+
+<img width="1946" height="1465" alt="Screenshot 2026-08-17 082008" src="https://github.com/user-attachments/assets/561806be-e9eb-4dce-9eab-0075af16b8bb" />
 
 The company has 500 accounts, 352 churned accounts, a 10.41% churn rate, $63.29M in MRR and 100% NRR.
 
